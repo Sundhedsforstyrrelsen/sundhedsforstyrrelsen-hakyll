@@ -1,0 +1,9 @@
+site
+site.hi
+site.o
+sundhedsforestyrrelsen-hakyll.cabal
+cabal.sandbox.config
+_cache
+_site
+.cabal-sandbox
+/sundhedsforstyrrelsen-hakyll.cabal
