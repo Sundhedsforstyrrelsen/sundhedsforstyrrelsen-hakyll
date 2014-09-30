@@ -1,10 +1,19 @@
 ---
-title: Home
+title: #Sundhedsforstyrrelsen
 ---
+<h1 style="text-align: center;">$title$</h1>
 
-<h1>Sundhedsforstyrrelsen</h1>
+<div style="font-variant:small-caps;">
+  <small>
+    $intro$
+  </small>
+</div>
 
-<p>I've reproduced a list of recent posts here for your reading pleasure:</p>
+<hr>
 
-<h2>Posts</h2>
-$partial("templates/post-list.html")$
+$for(posts)$
+<div style="margin: 0 auto; text-align: center; overflow: auto;">
+$partial("templates/post.html")$
+</div>
+<hr>
+$endfor$

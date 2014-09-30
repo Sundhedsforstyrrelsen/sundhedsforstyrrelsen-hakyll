@@ -1,0 +1,7 @@
+Transkønnedes forhold i Danmark er for mange en ukendt størrelse. På det seneste har flere interesseorganisationer forsøgt at gøre op med dette, og skabe synlighed omkring behandlingen, eller rettere manglen på samme.
+  
+Et tilbagevendende problem, som transkønnede bliver mødt med i det politiske arbejde for at bedre vilkårene, så de bare nogenlunde passer til en moderne tid med fokus på individets velvære, er Sundhedsstyrelsens og Sexologisk Kliniks ultimative magt på området, som gang på gang bruges til at undgå kritiske spørgsmål og forslag om forbedring. Der henvises til ekspertvældet, og det gør det nemt at skjule, hvad der egentlig foregår på Sexologisk Klinik, og hvad transkønnede her udsættes for. På den måde bliver en politisering af emnet behændigt omgået, og status quo kan, i det store og hele, fortsætte.
+  
+Ved at eksponere praksis omkring Sexologisk Klinik, håber vi at fjerne magten fra disse såkaldte eksperter, som retmæssigt kritiseres af internationale og nationale interessegrupper, og vise, at dette ikke er tiden til at lytte til Sundhedsstyrelsen og Sexologisk Klinik -- at de har fejlet i deres mandat, og ikke længere bør have lov til at gemme sig i eksperternes rækker. At de repræsenterer et syn på transkønnede, som vi som mennesker ikke kan eller vil finde os i.
+  
+Det er tid til at lytte til de transkønnede, deres venner, familie og deres allierede og høre, hvad dette statssanktionerede barbari fører med sig, og så ændre det politisk.
