@@ -29,7 +29,8 @@ main = hakyll $ do
   match "posts/*" $ do
     route $ setExtension "html"
     compile $ pandoc5Compiler
-      >>= loadAndApplyTemplate "templates/post.html"    postCtx
+      >>= applyAsTemplate imgurImgField
+      >>= loadAndApplyTemplate "templates/post.html" postCtx
       >>= relativizeUrls
 
   match "intro.md" $ compile pandoc5Compiler
@@ -54,6 +55,15 @@ main = hakyll $ do
 
 --------------------------------------------------------------------------------
 postCtx :: Context String
-postCtx =
-    dateField "date" "%B %e, %Y" `mappend`
-    defaultContext
+postCtx = mconcat [ dateField "date" "%B %e, %Y"
+                  ] <> defaultContext
+
+imgurImgField :: Context String
+imgurImgField = functionField "imgurImg" $ \a _ -> case a of
+  [i] -> return $ "<a href=\"http://i.imgur.com/"
+               <> i
+               <> ".png\"><img src=\""
+               <> "http://i.imgur.com/"
+               <> i
+               <> "m.png\" /></a>"
+  _   -> fail "Wrong args for imgurImg"

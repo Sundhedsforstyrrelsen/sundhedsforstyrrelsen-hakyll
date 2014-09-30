@@ -9,3 +9,6 @@ _site
 /sundhedsforstyrrelsen-hakyll.cabal
 /deploy
 /target
+/TAGS
+/dist/
+/sundhedsforstyrrelsen.cabal
