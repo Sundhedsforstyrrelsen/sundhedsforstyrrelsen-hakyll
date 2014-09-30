@@ -7,3 +7,5 @@ _cache
 _site
 .cabal-sandbox
 /sundhedsforstyrrelsen-hakyll.cabal
+/deploy
+/target
