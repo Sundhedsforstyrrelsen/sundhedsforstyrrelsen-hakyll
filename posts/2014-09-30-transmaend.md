@@ -1,5 +1,5 @@
 
-Disse billeder viser et udsnit af hvilke dybt personlige oplysninger, transmænd må afgive, for at blive taget i betragtning på Sexologisk Klinik.
+Disse billeder viser et udsnit af hvilke bedømmelser transmænd må underkaste sig, for at blive taget i betragtning på Sexologisk Klinik.
 
 <a href="http://i.imgur.com/RZ5BWgf.png"><img src="http://i.imgur.com/RZ5BWgfm.png" /></a>
 <a href="http://i.imgur.com/wQkpLwE.jpg"><img src="http://i.imgur.com/wQkpLwEm.jpg" /></a>
